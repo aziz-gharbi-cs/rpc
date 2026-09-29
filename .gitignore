@@ -1,0 +1,23 @@
+# Compiled executables
+prime_client
+prime_server
+*.exe
+
+# Object files
+*.o
+
+# Generated RPC files
+# Uncomment these if you want to regenerate them from the .x file
+# PrimeNb_clnt.c
+# PrimeNb_svc.c
+# PrimeNb_xdr.c
+
+# Build directories
+build/
+bin/
+
+# IDE / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
